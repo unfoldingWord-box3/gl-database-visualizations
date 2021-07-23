@@ -1,0 +1,346 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Bainouk-Gunyaamolo-Gutobor",
+                  "parentname": "Bainounk"
+                }
+              ],
+              "count": 1,
+              "name": "Bainouk-Gunyaamolo-Gutobor"
+            }
+          ],
+          "count": 1,
+          "name": "Bainounk"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Kugere-Kuxinge",
+                  "parentname": "Bayot"
+                }
+              ],
+              "count": 1,
+              "name": "Kugere-Kuxinge"
+            }
+          ],
+          "count": 1,
+          "name": "Bayot"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Gambian Wolof",
+                  "parentname": "Wolofic"
+                }
+              ],
+              "count": 1,
+              "name": "Gambian Wolof"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Wolof",
+                  "parentname": "Wolofic"
+                }
+              ],
+              "count": 1,
+              "name": "Wolof"
+            }
+          ],
+          "count": 2,
+          "name": "Wolofic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Jola-Esulalu",
+                  "parentname": "FH-Jola"
+                }
+              ],
+              "count": 1,
+              "name": "Jola-Esulalu"
+            }
+          ],
+          "count": 1,
+          "name": "FH-Jola"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Jola-Fonyi",
+                  "parentname": "Jola"
+                }
+              ],
+              "count": 1,
+              "name": "Jola-Fonyi"
+            }
+          ],
+          "count": 1,
+          "name": "Jola"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Karon",
+                  "parentname": "Karon-Mlomp"
+                }
+              ],
+              "count": 1,
+              "name": "Karon"
+            }
+          ],
+          "count": 1,
+          "name": "Karon-Mlomp"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Mandjak",
+                  "parentname": "Cur-Bok-Cotier"
+                }
+              ],
+              "count": 1,
+              "name": "Mandjak"
+            }
+          ],
+          "count": 1,
+          "name": "Cur-Bok-Cotier"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Mansoanka",
+                  "parentname": "Atlantic-Congo"
+                }
+              ],
+              "count": 1,
+              "name": "Mansoanka"
+            }
+          ],
+          "count": 1,
+          "name": "Atlantic-Congo"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Pulaar",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Pulaar"
+            }
+          ],
+          "count": 1,
+          "name": "Fula"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Sereer",
+                  "parentname": "Fula-Sereer"
+                }
+              ],
+              "count": 1,
+              "name": "Sereer"
+            }
+          ],
+          "count": 1,
+          "name": "Fula-Sereer"
+        }
+      ],
+      "count": 11,
+      "name": "Atlantic-Congo"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Sign Language",
+                  "name": "Gambian Sign Language",
+                  "parentname": "ASLic"
+                }
+              ],
+              "count": 1,
+              "name": "Gambian Sign Language"
+            }
+          ],
+          "count": 1,
+          "name": "ASLic"
+        }
+      ],
+      "count": 1,
+      "name": "Sign Language"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Indo-European",
+                  "name": "Krio",
+                  "parentname": "West African Creole English"
+                }
+              ],
+              "count": 1,
+              "name": "Krio"
+            }
+          ],
+          "count": 1,
+          "name": "West African Creole English"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Indo-European",
+                  "name": "Upper Guinea Crioulo",
+                  "parentname": "Upper Guinea Portuguese"
+                }
+              ],
+              "count": 1,
+              "name": "Upper Guinea Crioulo"
+            }
+          ],
+          "count": 1,
+          "name": "Upper Guinea Portuguese"
+        }
+      ],
+      "count": 2,
+      "name": "Indo-European"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mandinka",
+                  "parentname": "West Manding"
+                }
+              ],
+              "count": 1,
+              "name": "Mandinka"
+            }
+          ],
+          "count": 1,
+          "name": "West Manding"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Soninke",
+                  "parentname": "Soninkean"
+                }
+              ],
+              "count": 1,
+              "name": "Soninke"
+            }
+          ],
+          "count": 1,
+          "name": "Soninkean"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Western Maninkakan",
+                  "parentname": "Xasonka"
+                }
+              ],
+              "count": 1,
+              "name": "Western Maninkakan"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Xaasongaxango",
+                  "parentname": "Xasonka"
+                }
+              ],
+              "count": 1,
+              "name": "Xaasongaxango"
+            }
+          ],
+          "count": 2,
+          "name": "Xasonka"
+        }
+      ],
+      "count": 4,
+      "name": "Mande"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Artificial Language",
+                  "name": "N'Ko",
+                  "parentname": "Artificial Language"
+                }
+              ],
+              "count": 1,
+              "name": "N'Ko"
+            }
+          ],
+          "count": 1,
+          "name": "Artificial Language"
+        }
+      ],
+      "count": 1,
+      "name": "Artificial Language"
+    }
+  ],
+  "name": "Gambia"
+}

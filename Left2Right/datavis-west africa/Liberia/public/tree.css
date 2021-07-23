@@ -1,0 +1,120 @@
+:root {
+  --primary: #11cbd7;
+  --secondary: #663f3f;
+  --ternary: #053a3d;
+  --pStop: #2ae2ee;
+  --light: #c6f1e7;
+  --dark: #333;
+  --darker: #111;
+}
+
+.parent-left {
+  stop-color: var(--pStop);
+}
+
+.parent-right {
+  stop-color: var(--primary);
+}
+
+.child-left {
+  stop-color: var(--dark);
+}
+
+.child-right {
+  stop-color: var(--darker);
+}
+
+.lineGroup {
+  fill: none;
+  stroke: var(--light);
+  stroke-width: 2.5;
+}
+
+.fillRoot {
+  fill: var(--darker);
+}
+
+.fillFamily {
+  fill: var(--primary);
+}
+
+.fillParent {
+  fill: var(--secondary);
+}
+
+.fillLanguage {
+  fill: var(--light);
+}
+
+.box:hover .fillParent {
+  fill: var(--secondary);
+  stroke: var(--dark);
+  stroke-width: 2;
+}
+
+.box:hover .text {
+  fill: var(--light);
+}
+
+.box:hover .language {
+  fill: var(--darker);
+}
+
+.text {
+  fill: var(--dark);
+  font-size: 1.2em;
+  font-family: "Inter", sans-serif;
+  letter-spacing: 0.07em;
+}
+
+.root {
+  fill: var(--light);
+  font-weight: 500;
+}
+
+.family {
+  fill: var(--dark);
+  font-weight: 500;
+}
+
+.parent {
+  fill: var(--light);
+  font-weight: 500;
+}
+
+.language {
+  fill: var(--secondary);
+  font-weight: 500;
+}
+
+.button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(0, -310);
+  transition: transform 0.3s;
+}
+
+.expand,
+.collapse {
+  fill: var(--dark);
+  cursor: pointer;
+}
+
+.btnText {
+  fill: var(--light);
+  cursor: pointer;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.footer {
+  font-size: 0.75rem;
+  letter-spacing: 0.075rem;
+  /* font-weight: bold; */
+  /* text-transform: uppercase; */
+}

@@ -1,0 +1,788 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Jaad-Badyara",
+                  "parentname": "Jaad"
+                }
+              ],
+              "count": 1,
+              "name": "Jaad-Badyara"
+            }
+          ],
+          "count": 1,
+          "name": "Jaad"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Baga Manduri",
+                  "parentname": "Northern Mel"
+                }
+              ],
+              "count": 1,
+              "name": "Baga Manduri"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Baga Sitemu",
+                  "parentname": "Northern Mel"
+                }
+              ],
+              "count": 1,
+              "name": "Baga Sitemu"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Baga Koga",
+                  "parentname": "Northern Mel"
+                }
+              ],
+              "count": 1,
+              "name": "Baga Koga"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Landoma",
+                  "parentname": "Northern Mel"
+                }
+              ],
+              "count": 1,
+              "name": "Landoma"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Timne",
+                  "parentname": "Northern Mel"
+                }
+              ],
+              "count": 1,
+              "name": "Timne"
+            }
+          ],
+          "count": 5,
+          "name": "Northern Mel"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Pukur",
+                  "parentname": "Naluic"
+                }
+              ],
+              "count": 1,
+              "name": "Pukur"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Mbulungish",
+                  "parentname": "Naluic"
+                }
+              ],
+              "count": 1,
+              "name": "Mbulungish"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Nalu",
+                  "parentname": "Naluic"
+                }
+              ],
+              "count": 1,
+              "name": "Nalu"
+            }
+          ],
+          "count": 3,
+          "name": "Naluic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Bassari-Tanda",
+                  "parentname": "Bassari-Bedik-Bapen"
+                }
+              ],
+              "count": 1,
+              "name": "Bassari-Tanda"
+            }
+          ],
+          "count": 1,
+          "name": "Bassari-Bedik-Bapen"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Bullom So",
+                  "parentname": "Northern Bullom"
+                }
+              ],
+              "count": 1,
+              "name": "Bullom So"
+            }
+          ],
+          "count": 1,
+          "name": "Northern Bullom"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "East Limba",
+                  "parentname": "Limba"
+                }
+              ],
+              "count": 1,
+              "name": "East Limba"
+            }
+          ],
+          "count": 1,
+          "name": "Limba"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Northern Kissi",
+                  "parentname": "Kissi"
+                }
+              ],
+              "count": 1,
+              "name": "Northern Kissi"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Southern Kisi",
+                  "parentname": "Kissi"
+                }
+              ],
+              "count": 1,
+              "name": "Southern Kisi"
+            }
+          ],
+          "count": 2,
+          "name": "Kissi"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Pular",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Pular"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Pulaar",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Pulaar"
+            }
+          ],
+          "count": 2,
+          "name": "Fula"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Wamey",
+                  "parentname": "Tenda"
+                }
+              ],
+              "count": 1,
+              "name": "Wamey"
+            }
+          ],
+          "count": 1,
+          "name": "Tenda"
+        }
+      ],
+      "count": 17,
+      "name": "Atlantic-Congo"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Bookkeeping",
+                  "name": "Baga Kaloum",
+                  "parentname": "Bookkeeping"
+                }
+              ],
+              "count": 1,
+              "name": "Baga Kaloum"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Bookkeeping",
+                  "name": "Baga Sobané",
+                  "parentname": "Bookkeeping"
+                }
+              ],
+              "count": 1,
+              "name": "Baga Sobané"
+            }
+          ],
+          "count": 2,
+          "name": "Bookkeeping"
+        }
+      ],
+      "count": 2,
+      "name": "Bookkeeping"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Bambara",
+                  "parentname": "East Manding"
+                }
+              ],
+              "count": 1,
+              "name": "Bambara"
+            }
+          ],
+          "count": 1,
+          "name": "East Manding"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Bandi",
+                  "parentname": "Bandi-Zialo"
+                }
+              ],
+              "count": 1,
+              "name": "Bandi"
+            }
+          ],
+          "count": 1,
+          "name": "Bandi-Zialo"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Dan",
+                  "parentname": "Dan-Toura"
+                }
+              ],
+              "count": 1,
+              "name": "Dan"
+            }
+          ],
+          "count": 1,
+          "name": "Dan-Toura"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Eastern Maninkakan",
+                  "parentname": "Manenkan"
+                }
+              ],
+              "count": 1,
+              "name": "Eastern Maninkakan"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Konyanka Maninka",
+                  "parentname": "Manenkan"
+                }
+              ],
+              "count": 1,
+              "name": "Konyanka Maninka"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Manya",
+                  "parentname": "Manenkan"
+                }
+              ],
+              "count": 1,
+              "name": "Manya"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Sankaran Maninka",
+                  "parentname": "Manenkan"
+                }
+              ],
+              "count": 1,
+              "name": "Sankaran Maninka"
+            }
+          ],
+          "count": 4,
+          "name": "Manenkan"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Guinea Kpelle",
+                  "parentname": "Kpelle"
+                }
+              ],
+              "count": 1,
+              "name": "Guinea Kpelle"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Kono (Guinea)",
+                  "parentname": "Kpelle"
+                }
+              ],
+              "count": 1,
+              "name": "Kono (Guinea)"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Liberia Kpelle",
+                  "parentname": "Kpelle"
+                }
+              ],
+              "count": 1,
+              "name": "Liberia Kpelle"
+            }
+          ],
+          "count": 3,
+          "name": "Kpelle"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Jahanka",
+                  "parentname": "Xasonka"
+                }
+              ],
+              "count": 1,
+              "name": "Jahanka"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Western Maninkakan",
+                  "parentname": "Xasonka"
+                }
+              ],
+              "count": 1,
+              "name": "Western Maninkakan"
+            }
+          ],
+          "count": 2,
+          "name": "Xasonka"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Kakabe",
+                  "parentname": "Nuclear Mokole"
+                }
+              ],
+              "count": 1,
+              "name": "Kakabe"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Kuranko",
+                  "parentname": "Nuclear Mokole"
+                }
+              ],
+              "count": 1,
+              "name": "Kuranko"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Lele (Guinea)",
+                  "parentname": "Nuclear Mokole"
+                }
+              ],
+              "count": 1,
+              "name": "Lele (Guinea)"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mixifore",
+                  "parentname": "Nuclear Mokole"
+                }
+              ],
+              "count": 1,
+              "name": "Mixifore"
+            }
+          ],
+          "count": 4,
+          "name": "Nuclear Mokole"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Kita Maninkakan",
+                  "parentname": "Kita-Kagoro"
+                }
+              ],
+              "count": 1,
+              "name": "Kita Maninkakan"
+            }
+          ],
+          "count": 1,
+          "name": "Kita-Kagoro"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Kono (Sierra Leone)",
+                  "parentname": "Vai-Kono"
+                }
+              ],
+              "count": 1,
+              "name": "Kono (Sierra Leone)"
+            }
+          ],
+          "count": 1,
+          "name": "Vai-Kono"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Loma (Liberia)",
+                  "parentname": "Loma"
+                }
+              ],
+              "count": 1,
+              "name": "Loma (Liberia)"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Toma",
+                  "parentname": "Loma"
+                }
+              ],
+              "count": 1,
+              "name": "Toma"
+            }
+          ],
+          "count": 2,
+          "name": "Loma"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mahou",
+                  "parentname": "Maninka-Mori"
+                }
+              ],
+              "count": 1,
+              "name": "Mahou"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Wojenaka",
+                  "parentname": "Maninka-Mori"
+                }
+              ],
+              "count": 1,
+              "name": "Wojenaka"
+            }
+          ],
+          "count": 2,
+          "name": "Maninka-Mori"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mandinka",
+                  "parentname": "West Manding"
+                }
+              ],
+              "count": 1,
+              "name": "Mandinka"
+            }
+          ],
+          "count": 1,
+          "name": "West Manding"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mann",
+                  "parentname": "Mano-Dan"
+                }
+              ],
+              "count": 1,
+              "name": "Mann"
+            }
+          ],
+          "count": 1,
+          "name": "Mano-Dan"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Mende (Sierra Leone)",
+                  "parentname": "Mende-Loko"
+                }
+              ],
+              "count": 1,
+              "name": "Mende (Sierra Leone)"
+            }
+          ],
+          "count": 1,
+          "name": "Mende-Loko"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Soninke",
+                  "parentname": "Soninkean"
+                }
+              ],
+              "count": 1,
+              "name": "Soninke"
+            }
+          ],
+          "count": 1,
+          "name": "Soninkean"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Susu",
+                  "parentname": "Susu-Yalunka"
+                }
+              ],
+              "count": 1,
+              "name": "Susu"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Yalunka",
+                  "parentname": "Susu-Yalunka"
+                }
+              ],
+              "count": 1,
+              "name": "Yalunka"
+            }
+          ],
+          "count": 2,
+          "name": "Susu-Yalunka"
+        }
+      ],
+      "count": 28,
+      "name": "Mande"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Pidgin",
+                  "name": "Bauxite Pidgin",
+                  "parentname": "French-based pidgin"
+                }
+              ],
+              "count": 1,
+              "name": "Bauxite Pidgin"
+            }
+          ],
+          "count": 1,
+          "name": "French-based pidgin"
+        }
+      ],
+      "count": 1,
+      "name": "Pidgin"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Sign Language",
+                  "name": "Guinean Sign Language",
+                  "parentname": "ASLic"
+                }
+              ],
+              "count": 1,
+              "name": "Guinean Sign Language"
+            }
+          ],
+          "count": 1,
+          "name": "ASLic"
+        }
+      ],
+      "count": 1,
+      "name": "Sign Language"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Indo-European",
+                  "name": "Krio",
+                  "parentname": "West African Creole English"
+                }
+              ],
+              "count": 1,
+              "name": "Krio"
+            }
+          ],
+          "count": 1,
+          "name": "West African Creole English"
+        }
+      ],
+      "count": 1,
+      "name": "Indo-European"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Artificial Language",
+                  "name": "N'Ko",
+                  "parentname": "Artificial Language"
+                }
+              ],
+              "count": 1,
+              "name": "N'Ko"
+            }
+          ],
+          "count": 1,
+          "name": "Artificial Language"
+        }
+      ],
+      "count": 1,
+      "name": "Artificial Language"
+    }
+  ],
+  "name": "Guinea"
+}

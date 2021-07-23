@@ -1,0 +1,205 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Sign Language",
+                  "name": "American Sign Language",
+                  "parentname": "American Sign"
+                }
+              ],
+              "count": 1,
+              "name": "American Sign Language"
+            }
+          ],
+          "count": 1,
+          "name": "American Sign"
+        }
+      ],
+      "count": 1,
+      "name": "Sign Language"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Hassaniyya",
+                  "parentname": "North African Arabic"
+                }
+              ],
+              "count": 1,
+              "name": "Hassaniyya"
+            }
+          ],
+          "count": 1,
+          "name": "North African Arabic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Zenaga",
+                  "parentname": "Western Berber"
+                }
+              ],
+              "count": 1,
+              "name": "Zenaga"
+            }
+          ],
+          "count": 1,
+          "name": "Western Berber"
+        }
+      ],
+      "count": 2,
+      "name": "Afro-Asiatic"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Bookkeeping",
+                  "name": "Imeraguen",
+                  "parentname": "Bookkeeping"
+                }
+              ],
+              "count": 1,
+              "name": "Imeraguen"
+            }
+          ],
+          "count": 1,
+          "name": "Bookkeeping"
+        }
+      ],
+      "count": 1,
+      "name": "Bookkeeping"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Koyra Chiini Songhay",
+                  "parentname": "Northwest Songhay"
+                }
+              ],
+              "count": 1,
+              "name": "Koyra Chiini Songhay"
+            }
+          ],
+          "count": 1,
+          "name": "Northwest Songhay"
+        }
+      ],
+      "count": 1,
+      "name": "Songhay"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Maasina Fulfulde",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Maasina Fulfulde"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Pulaar",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Pulaar"
+            }
+          ],
+          "count": 2,
+          "name": "Fula"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Wolof",
+                  "parentname": "Wolofic"
+                }
+              ],
+              "count": 1,
+              "name": "Wolof"
+            }
+          ],
+          "count": 1,
+          "name": "Wolofic"
+        }
+      ],
+      "count": 3,
+      "name": "Atlantic-Congo"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Soninke",
+                  "parentname": "Soninkean"
+                }
+              ],
+              "count": 1,
+              "name": "Soninke"
+            }
+          ],
+          "count": 1,
+          "name": "Soninkean"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Mande",
+                  "name": "Western Maninkakan",
+                  "parentname": "Xasonka"
+                }
+              ],
+              "count": 1,
+              "name": "Western Maninkakan"
+            }
+          ],
+          "count": 1,
+          "name": "Xasonka"
+        }
+      ],
+      "count": 2,
+      "name": "Mande"
+    }
+  ],
+  "name": "Mauritania"
+}

@@ -1,0 +1,400 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Algerian Saharan Arabic",
+                  "parentname": "North African Arabic"
+                }
+              ],
+              "count": 1,
+              "name": "Algerian Saharan Arabic"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Hassaniyya",
+                  "parentname": "North African Arabic"
+                }
+              ],
+              "count": 1,
+              "name": "Hassaniyya"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Libyan Arabic",
+                  "parentname": "North African Arabic"
+                }
+              ],
+              "count": 1,
+              "name": "Libyan Arabic"
+            }
+          ],
+          "count": 3,
+          "name": "North African Arabic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Chadian Arabic",
+                  "parentname": "Sudanese-Chadian Arabic"
+                }
+              ],
+              "count": 1,
+              "name": "Chadian Arabic"
+            }
+          ],
+          "count": 1,
+          "name": "Sudanese-Chadian Arabic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Hausa",
+                  "parentname": "West Chadic A.1"
+                }
+              ],
+              "count": 1,
+              "name": "Hausa"
+            }
+          ],
+          "count": 1,
+          "name": "West Chadic A.1"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Tahaggart Tamahaq",
+                  "parentname": "Tuareg"
+                }
+              ],
+              "count": 1,
+              "name": "Tahaggart Tamahaq"
+            }
+          ],
+          "count": 1,
+          "name": "Tuareg"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Tawallammat Tamajaq",
+                  "parentname": "Southern Tuareg"
+                }
+              ],
+              "count": 1,
+              "name": "Tawallammat Tamajaq"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Tayart Tamajeq",
+                  "parentname": "Southern Tuareg"
+                }
+              ],
+              "count": 1,
+              "name": "Tayart Tamajeq"
+            }
+          ],
+          "count": 2,
+          "name": "Southern Tuareg"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Afro-Asiatic",
+                  "name": "Tetserret",
+                  "parentname": "Western Berber"
+                }
+              ],
+              "count": 1,
+              "name": "Tetserret"
+            }
+          ],
+          "count": 1,
+          "name": "Western Berber"
+        }
+      ],
+      "count": 9,
+      "name": "Afro-Asiatic"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Bilma Kanuri",
+                  "parentname": "East Kanuri"
+                }
+              ],
+              "count": 1,
+              "name": "Bilma Kanuri"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Manga Kanuri",
+                  "parentname": "East Kanuri"
+                }
+              ],
+              "count": 1,
+              "name": "Manga Kanuri"
+            }
+          ],
+          "count": 2,
+          "name": "East Kanuri"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Central Kanuri",
+                  "parentname": "Kanuric"
+                }
+              ],
+              "count": 1,
+              "name": "Central Kanuri"
+            }
+          ],
+          "count": 1,
+          "name": "Kanuric"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Dazaga",
+                  "parentname": "Tebu"
+                }
+              ],
+              "count": 1,
+              "name": "Dazaga"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Tedaga",
+                  "parentname": "Tebu"
+                }
+              ],
+              "count": 1,
+              "name": "Tedaga"
+            }
+          ],
+          "count": 2,
+          "name": "Tebu"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Kanembu",
+                  "parentname": "Kanembuic"
+                }
+              ],
+              "count": 1,
+              "name": "Kanembu"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Saharan",
+                  "name": "Tumari Kanuri",
+                  "parentname": "Kanembuic"
+                }
+              ],
+              "count": 1,
+              "name": "Tumari Kanuri"
+            }
+          ],
+          "count": 2,
+          "name": "Kanembuic"
+        }
+      ],
+      "count": 7,
+      "name": "Saharan"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Central-Eastern Niger Fulfulde",
+                  "parentname": "Eastern Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Central-Eastern Niger Fulfulde"
+            }
+          ],
+          "count": 1,
+          "name": "Eastern Fula"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Gourmanchéma",
+                  "parentname": "Gourmantche-Moba"
+                }
+              ],
+              "count": 1,
+              "name": "Gourmanchéma"
+            }
+          ],
+          "count": 1,
+          "name": "Gourmantche-Moba"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Maasina Fulfulde",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Maasina Fulfulde"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Atlantic-Congo",
+                  "name": "Western Niger Fulfulde",
+                  "parentname": "Fula"
+                }
+              ],
+              "count": 1,
+              "name": "Western Niger Fulfulde"
+            }
+          ],
+          "count": 2,
+          "name": "Fula"
+        }
+      ],
+      "count": 4,
+      "name": "Atlantic-Congo"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Dendi (Benin)",
+                  "parentname": "Zarma-Kaado-Dendi"
+                }
+              ],
+              "count": 1,
+              "name": "Dendi (Benin)"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Zarma-Kaado",
+                  "parentname": "Zarma-Kaado-Dendi"
+                }
+              ],
+              "count": 1,
+              "name": "Zarma-Kaado"
+            }
+          ],
+          "count": 2,
+          "name": "Zarma-Kaado-Dendi"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Koyraboro Senni Songhai",
+                  "parentname": "Eastern Songhay"
+                }
+              ],
+              "count": 1,
+              "name": "Koyraboro Senni Songhai"
+            }
+          ],
+          "count": 1,
+          "name": "Eastern Songhay"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Tagdal",
+                  "parentname": "Northern Songhay"
+                }
+              ],
+              "count": 1,
+              "name": "Tagdal"
+            },
+            {
+              "children": [
+                {
+                  "familyname": "Songhay",
+                  "name": "Tasawaq",
+                  "parentname": "Northern Songhay"
+                }
+              ],
+              "count": 1,
+              "name": "Tasawaq"
+            }
+          ],
+          "count": 2,
+          "name": "Northern Songhay"
+        }
+      ],
+      "count": 5,
+      "name": "Songhay"
+    }
+  ],
+  "name": "Niger"
+}
