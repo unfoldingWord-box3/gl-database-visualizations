@@ -1,8 +1,8 @@
 """
-Model exported as python.
-Name : DV_GL_OL_Voronoi_Smoothening
+Version: v.01 
+Name : DV_OL_CT_OLB
 Group : 
-With QGIS : 32200
+
 """
 
 from qgis.core import QgsProcessing
