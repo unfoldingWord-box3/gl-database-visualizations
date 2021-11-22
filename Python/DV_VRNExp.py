@@ -1,5 +1,5 @@
 """
-Model exported as python for advanced coordinate processing
+Model exported as python script for advanced coordinate processing
 Name : DV_GL_OL_VRN_Exp
 Group : 
 With QGIS : 32200
