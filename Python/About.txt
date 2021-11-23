@@ -1,1 +1,1 @@
-QGIS Modelling experiments with public data
+QGIS Modelling experiments with language data from Glottolog.org
