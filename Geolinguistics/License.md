@@ -1,7 +1,7 @@
  LICENSE- RESOUCE LEVEL LANGUAGE POLYGON
  
 
-Copyright (c) 2022  unfoldingWord Box3
+Source URL : www.openlanguages.io/sli
 
 Creative Commons By Share Alike CCBYSA 4.0
 
