@@ -1,1 +1,1 @@
-QGIS Modelling experiments with language data from Glottolog.org
+pyQGIS and QGIS Modelling experiments with language data
