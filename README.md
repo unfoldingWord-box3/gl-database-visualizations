@@ -1,3 +1,3 @@
 # gl-database-visualizations
-D3 JS and Python  visualizations of Glottolog.org or other  data
+D3 JS and Python  visualization or code snippets
 
