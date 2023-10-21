@@ -1,7 +1,7 @@
  LICENSE- RESOUCE LEVEL LANGUAGE POLYGON
  
 
-Source URL : www.openlanguages.io/sli
+
 
 Creative Commons By Share Alike CCBYSA 4.0
 
