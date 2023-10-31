@@ -1,0 +1,209 @@
+Language Name,Iso Code,Resource Level,BCP-47 Code,Overlaps
+French,fra,4,fr,"Germany,Netherlands,Canada,United States of America,French Polynesia,Seychelles,France,Italy,Vanuatu,Democratic Republic of th,Chad,Lebanon,Syria,Brazil,Sierra Leone,Guinea,Central African Republic,Sudan,Djibouti,Zambia,Austria,Liechtenstein,Nigeria,Benin,Dominican Republic,Haiti,Andorra,Rwanda,Uganda,Belgium,Switzerland,Tanzania,Burundi,Ethiopia,South Sudan,Gabon,Ghana,Côte d'Ivoire,Spain,Algeria,Mauritania,Senegal,Guinea-Bissau,Cameroon,Equatorial Guinea,Gambia,Togo,Burkina Faso,Congo (Republic of the Co,Mauritius,Madagascar,Eritrea,Libya,Liberia,Morocco,Tunisia,Angola,New Caledonia,Saint Pierre and Miquelon,Saint Barthélemy,Comoros,Wallis and Futuna Islands,Israel,Saint Martin,Sint Maarten,Luxembourg,Mali,Monaco,Suriname,Niger,Western Sahara"
+Ladakhi,lbj,1,lbj,"China,India,Pakistan"
+Sango,sag,2,sg,"Democratic Republic of th,Chad,Central African Republic,Sudan,South Sudan,Cameroon,Congo (Republic of the Co"
+Arabic (MSA),arb,4,ar,"Bahrain,Egypt,Chad,Oman,Lebanon,Syria,United Arab Emirates,Central African Republic,Sudan,Djibouti,Nigeria,Kuwait,Iraq,Iran,Ethiopia,South Sudan,Spain,Jordan,Yemen,Algeria,Mauritania,Senegal,Somalia,Kenya,Cameroon,Qatar,Turkey,Eritrea,Libya,Morocco,Tunisia,Saudi Arabia,Comoros,Israel,Palestine,Mali,Niger,Western Sahara"
+"Arabic, Moroccan",ary,2,ary,"Spain,Algeria,Mauritania,Morocco,Western Sahara"
+Maithili,mai,2,mai,"India,Bangladesh,Nepal"
+"Chinese, Xiang",hsn,2,hsn,China
+"Arabic, Sudanese",apd,2,apd,"Chad,Sudan,South Sudan,Eritrea"
+Bhojpuri,bho,2,bho,"India,Bangladesh,Nepal"
+"Arabic, Chadian",shu,2,shu,"Chad,Central African Republic,Sudan,Nigeria,Cameroon,Libya,Niger"
+English,eng,4,en,"Norway,Sweden,Germany,Netherlands,Russia,Croatia,Canada,United States of America,Mexico,Botswana,Indonesia,Philippines,Belize,China,Finland,Greenland,Pitcairn Islands,Kiribati,Marshall Islands,India,Venezuela,France,British Virgin Islands,Bahamas,Bermuda,Greece,Italy,Isle of Man,United Kingdom,British Indian Ocean Terr,Fiji,Cook Islands,Tuvalu,Micronesia,Tonga,Palau,Australia,Democratic Republic of th,Chad,Estonia,Latvia,Lithuania,North Macedonia,Albania,Brazil,Ireland,Sierra Leone,Guinea,Central African Republic,Sudan,Zambia,Austria,Liechtenstein,Nigeria,Benin,Slovenia,Hungary,Thailand,Andorra,Rwanda,Uganda,Serbia,Montenegro,Belgium,Switzerland,Bosnia and Herzegovina,Slovakia,Czechia,Bulgaria,Romania,Ukraine,Iran,Tanzania,Ethiopia,South Sudan,Gabon,Ghana,Côte d'Ivoire,Gibraltar,Spain,Guatemala,Afghanistan,Senegal,Somalia,Kenya,Cameroon,Equatorial Guinea,Namibia,Gambia,Togo,Burkina Faso,Malawi,Mozambique,Hong Kong,Cyprus,Congo (Republic of the Co,Turkey,Trinidad and Tobago,Grenada,Barbados,Saint Lucia,Dominica,Antigua and Barbuda,Saint Kitts and Nevis,Anguilla,Jamaica,Mauritius,Malta,Singapore,Samoa,Nauru,New Zealand,South Africa,Liberia,Pakistan,Malaysia,Denmark,Angola,Guyana,United States Virgin Isla,Cayman Islands,Saint Helena,Jersey,Guernsey,Norfolk Island,Solomon Islands,Falkland Islands,Niue,American Samoa,Guam,Northern Mariana Islands,Belarus,Luxembourg,Poland,Zimbabwe,Brunei,Monaco,eSwatini,Suriname,Lesotho,Niger,Montserrat"
+Uzbek,uzb,2,uz,"Kazakhstan,Uzbekistan,Afghanistan,Pakistan,Turkmenistan,Kyrgyzstan,Tajikistan"
+"Tibetan, Lhasa",bod,2,bo,"Myanmar,China,India,Bhutan,Nepal"
+Armenian ,hye,0,hy,"Azerbaijan,Georgia,Armenia,Iran,Turkey"
+Zarma,dje,1,dje,"Nigeria,Benin,Burkina Faso,Mali,Niger"
+Dogri,dgo,0,dgo,"India,Pakistan"
+Lao,lao,3,lo,"Cambodia,Myanmar,Vietnam,China,Thailand,Laos"
+Dholuo,luo,1,luo,"Uganda,Tanzania,Kenya"
+"Sotho, Southern",sot,0,st,"South Africa,Lesotho"
+Nepali,nep,2,nl,"China,India,Bangladesh,Bhutan,Nepal"
+Shona,sna,2,sn,"Botswana,Zambia,Mozambique,South Africa,Zimbabwe"
+Gikuyu,kik,0,ki,Kenya
+Maninka,emk,1,emk,"Sierra Leone,Guinea,Côte d'Ivoire,Senegal,Gambia,Liberia,Mali"
+Somali,som,1,so,"Djibouti,Ethiopia,Somalia,Kenya"
+Bislama ,bis,2,bi,Vanuatu
+Swati,ssw,0,ss,"Mozambique,South Africa,eSwatini"
+Ukrainian ,ukr,0,uk,"Russia,Hungary,Slovakia,Romania,Moldova,Ukraine,Belarus,Poland"
+Bulgarian ,bul,0,bg,"Greece,North Macedonia,Serbia,Bulgaria,Romania,Turkey"
+Mongolian,mon,2,mn,"Russia,China,Mongolia"
+Tajik,tgk,2,tg,"China,Uzbekistan,Afghanistan,Pakistan,Kyrgyzstan,Tajikistan"
+"Arabic, Sanaani",ayn,1,ayn,Yemen
+Czech,ces,0,cs,"Germany,Austria,Slovakia,Czechia,Poland"
+Oromo,orm,2,om,"Sudan,Ethiopia,South Sudan,Kenya"
+Lingala,lin,3,ln,"Democratic Republic of th,Central African Republic,South Sudan,Gabon,Cameroon,Congo (Republic of the Co"
+Uyghur,uig,1,ug,"China,India,Kazakhstan,Pakistan,Mongolia,Kyrgyzstan,Tajikistan"
+Assamese,asm,3,as,"Myanmar,India,Bangladesh,Bhutan"
+Ndebele,nde,0,nd,"Botswana,Zambia,South Africa,Zimbabwe"
+Minangkabau,min,0,min,Indonesia
+Dhivehi,div,1,dv,Maldives
+Telugu,tel,2,te,India
+Javanese,jav,2,jv,Indonesia
+Kurdish,kur,2,ku,"Syria,Georgia,Armenia,Iraq,Iran,Turkey"
+"Arabic, Najdi",ars,1,ars,"Iraq,Jordan,Saudi Arabia"
+Hausa,hau,3,ha,"Chad,Nigeria,Benin,Ghana,Côte d'Ivoire,Cameroon,Togo,Burkina Faso,Niger"
+Turkmen,tuk,1,tk,"Kazakhstan,Iran,Uzbekistan,Afghanistan,Turkmenistan"
+Burmese ,mya,3,my,"Myanmar,China,India,Thailand,Bangladesh,Laos"
+Danish ,dan,0,da,"Germany,Denmark"
+Dari ,prs,2,prs,"China,Iran,Uzbekistan,Afghanistan,Pakistan,Turkmenistan,Tajikistan"
+Luganda,lug,2,lg,"Democratic Republic of th,Rwanda,Uganda,Tanzania,Kenya"
+Kituba,ktu,2,ktu,"Democratic Republic of th,Gabon,Congo (Republic of the Co,Angola"
+Madurese,mad,1,mad,Indonesia
+"Malay, Ambonese",abs,1,abs,Indonesia
+"Punjabi, Eastern",pan,0,pa,"India,Pakistan"
+Pashto,pus,1,ps,"Afghanistan,Pakistan"
+Setswana,tsn,2,tn,"Botswana,Namibia,South Africa,Zimbabwe"
+Tsonga,tso,0,ts,"Mozambique,South Africa,Zimbabwe"
+Kinyarwanda ,kin,0,rw,"Democratic Republic of th,Rwanda,Uganda,Tanzania,Burundi"
+Dzongkha,dzo,1,dz,"China,India,Bhutan"
+Norwegian ,nor,0,no,"Norway,Sweden,Russia,Finland"
+Tuareg,tmh,1,tmh,"Chad,Algeria,Burkina Faso,Libya,Mali,Niger"
+Aymara,aym,2,ay,"Chile,Peru,Bolivia"
+Tagalog ,tgl,3,tl,Philippines
+Estonian ,est,0,et,"Russia,Estonia,Latvia"
+Tigrinya,tir,1,ti,"Sudan,Ethiopia,Eritrea"
+Brahui,brh,1,brh,"Afghanistan,Pakistan"
+Chokwe,cjk,1,cjk,"Democratic Republic of th,Zambia,Angola"
+Georgian ,kat,0,ka,"Russia,Azerbaijan,Georgia,Armenia,Turkey"
+Fang,fan,1,fan,"Gabon,Cameroon,Equatorial Guinea,Congo (Republic of the Co"
+Fulfulde (Nigerian),fuv,0,fuv,"Chad,Nigeria,Cameroon,Niger"
+Malayalam,mal,2,ml,India
+Balinese,ban,0,ban,Indonesia
+Khoekhoe,naq,1,naq,"Botswana,Namibia,Zimbabwe"
+Tok Pisin ,tpi,3,tpi,"Indonesia,Papua New Guinea"
+Fulfulde (Pular),fuf,0,fuf,"Sierra Leone,Guinea,Senegal,Guinea-Bissau,Mali"
+Kabiye,kbp,1,kbp,"Benin,Ghana,Togo,Burkina Faso"
+Moore,mos,1,mos,"Ghana,Togo,Burkina Faso,Mali"
+Temne,tem,1,tem,Sierra Leone
+Kanuri,kau,1,kr,"Chad,Nigeria,Cameroon,Niger"
+Shina,scl,1,scl,"China,India,Afghanistan,Pakistan"
+Saraiki,skr,1,skr,"India,Pakistan"
+Soninke,snk,1,snk,"Mauritania,Senegal,Mali"
+Makhuwa,vmw,1,vmw,Mozambique
+"Albanian, Gheg",aln,0,aln,"North Macedonia,Albania,Kosovo,Serbia,Montenegro"
+Khmer ,khm,2,km,"Cambodia,Vietnam,Thailand,Laos"
+Igbo,ibo,2,ig,Nigeria
+Wolof,wol,2,wo,"Mauritania,Senegal,Gambia"
+Krio ,kri,1,kri,"Sierra Leone,Guinea,Liberia"
+Fulfulde,ful,1,ful,"Chad,Guinea,Central African Republic,Nigeria,Benin,Ghana,Côte d'Ivoire,Mauritania,Senegal,Guinea-Bissau,Cameroon,Gambia,Togo,Burkina Faso,Mali,Niger"
+Berta,wti,1,wti,"Sudan,Ethiopia,South Sudan"
+Thai ,tha,3,th,"Cambodia,Myanmar,Thailand,Malaysia,Laos"
+Zulu,zul,0,zu,"Mozambique,South Africa,eSwatini,Lesotho"
+"Chinese, Zhuang",zha,2,za,"Vietnam,China"
+"Chinese, Jinyu",cjy,0,cjy,China
+Marathi,mar,2,mr,India
+Kpelle,kpe,1,kpe,"Guinea,Côte d'Ivoire,Liberia"
+Tamil,tam,2,ta,"India,Sri Lanka"
+Dutch,nld,3,ne,"Germany,Netherlands,France,Brazil,Belgium,Guyana,Curaçao,Aruba,Saint Martin,Sint Maarten,Luxembourg,Suriname"
+"Arabic, Juba ",pga,1,pga,"Democratic Republic of th,Central African Republic,Sudan,Uganda,Ethiopia,South Sudan,Kenya"
+Songhay,ses,0,ses,"Benin,Burkina Faso,Mali,Niger"
+Ewe,ewe,2,ee,"Benin,Ghana,Togo"
+Kashmiri,kas,1,ks,"India,Pakistan"
+Bosnian ,bos,0,bs,"Croatia,Serbia,Montenegro,Bosnia and Herzegovina"
+"Arabic, Gulf",afb,1,afb,"Bahrain,Oman,United Arab Emirates,Kuwait,Qatar,Saudi Arabia"
+Susu,sus,1,sus,"Sierra Leone,Guinea"
+"Chinese, Hakka",hak,2,hak,China
+Rajasthani,raj,2,raj,"India,Pakistan"
+Greek,ell,0,el,"Greece,North Macedonia,Albania,Bulgaria,Turkey"
+"Chinese, Gan",gan,0,gan,China
+Bambara,bam,2,bm,"Guinea,Ghana,Côte d'Ivoire,Mauritania,Senegal,Guinea-Bissau,Gambia,Burkina Faso,Liberia,Mali"
+Tetun,tet,1,tet,"Indonesia,Timor-Leste"
+"Malay, Papuan",pmy,1,pmy,"Indonesia,Papua New Guinea"
+Akan,aka,2,ak,"Ghana,Côte d'Ivoire"
+Amharic,amh,3,am,"Sudan,Djibouti,Ethiopia,South Sudan,Kenya,Eritrea"
+Mandinka,mnk,1,mnk,"Senegal,Guinea-Bissau,Gambia"
+Fulfulde (Pulaar),fuc,0,fuc,"Guinea,Mauritania,Senegal,Guinea-Bissau,Gambia,Mali"
+Fur,fvr,1,ff,"Chad,Central African Republic,Sudan"
+Macedonian ,mkd,0,mk,"Greece,North Macedonia,Albania,Kosovo,Serbia,Bulgaria"
+Comorian,zdj,0,zdj,Comoros
+"Punjabi, Western",pnb,2,pa,"India,Pakistan"
+Croatian ,hrv,0,hr,"Croatia,Slovenia,Hungary,Serbia,Montenegro,Bosnia and Herzegovina"
+Swahili,swa,4,sw,"Democratic Republic of th,Zambia,Rwanda,Uganda,Tanzania,Burundi,Ethiopia,South Sudan,Somalia,Kenya,Malawi,Mozambique"
+Fijian ,fij,0,fj,Fiji
+Mende,men,1,men,"Sierra Leone,Guinea,Liberia"
+Turkish ,tur,3,tr,"Greece,Syria,Azerbaijan,Georgia,Armenia,Iraq,Bulgaria,Iran,Cyprus,Turkey"
+Meitei,mni,2,mni,"Myanmar,India,Bangladesh,Bhutan"
+Odia,ory,2,or,India
+Bengali,ben,3,bn,"Myanmar,India,Bangladesh,Bhutan,Nepal"
+Cebuano,ceb,2,ceb,Philippines
+"Chinese, Min Nan",nan,2,nan,"China,Taiwan"
+"Chinese, Wu",wuu,2,wuu,China
+Montenegrin ,cnr,0,cnr,"Croatia,Albania,Kosovo,Serbia,Montenegro,Bosnia and Herzegovina"
+"Chinese, Yue",yue,2,yue,"China,Macao,Hong Kong"
+Spanish,spa,4,es,"United States of America,Mexico,Chile,Ecuador,Panama,Belize,Venezuela,France,Honduras,Cuba,Brazil,Dominican Republic,Haiti,Andorra,El Salvador,Gibraltar,Spain,Guatemala,Costa Rica,Colombia,Peru,Nicaragua,Morocco,Portugal,Argentina,Guyana,Puerto Rico,Uruguay,Bolivia,Paraguay"
+Portuguese,por,4,pt,"Indonesia,Venezuela,France,Democratic Republic of th,Brazil,Guinea,Zambia,Tanzania,Gabon,Spain,Colombia,Senegal,Guinea-Bissau,Cameroon,Equatorial Guinea,Namibia,Malawi,Mozambique,Congo (Republic of the Co,Peru,Cape Verde,South Africa,Angola,Portugal,Argentina,Guyana,São Tomé and Principe,Timor-Leste,Uruguay,Bolivia,Zimbabwe,eSwatini,Suriname,Paraguay"
+Vietnamese,vie,3,vi,"Cambodia,Vietnam,China,Laos"
+Icelandic ,isl,0,is,Iceland
+Indonesian ,ind,4,id,"Indonesia,Papua New Guinea,Thailand,Singapore,Malaysia,Timor-Leste,Brunei"
+Italian,ita,2,it,"Croatia,France,Italy,Austria,Slovenia,San Marino,Switzerland,Malta,Monaco"
+Quechua,que,2,qu,"Chile,Ecuador,Colombia,Peru,Argentina,Bolivia"
+Nagamese,nag,0,nag,"Myanmar,India"
+"Arabic, Algerian",arq,2,arq,"Algeria,Mauritania,Libya,Morocco,Tunisia,Mali,Western Sahara"
+Korean,kor,0,ko,"Russia,China,South Korea,North Korea"
+Ilocano,ilo,2,ilo,Philippines
+Yoruba,yor,2,yo,"Nigeria,Benin"
+Hungarian,hun,2,hu,"Croatia,Austria,Slovenia,Hungary,Serbia,Slovakia,Romania,Ukraine"
+Malagasy ,mlg,2,mg,Madagascar
+Malay,msa,3,ms,"Indonesia,Thailand,Singapore,Malaysia,Brunei"
+Russian,rus,4,ru,"Norway,Russia,China,Finland,Kazakhstan,Estonia,Latvia,Lithuania,Azerbaijan,Georgia,Armenia,Hungary,Slovakia,Romania,Moldova,Ukraine,Iran,Uzbekistan,Afghanistan,Turkey,North Korea,Turkmenistan,Belarus,Mongolia,Kyrgyzstan,Poland,Tajikistan"
+Irish ,gle,0,ga,"United Kingdom,Ireland"
+Romanian ,ron,2,ro,"Hungary,Serbia,Bulgaria,Romania,Moldova,Ukraine"
+Hindi,hin,4,hi,"China,India,Pakistan,Bangladesh,Bhutan,Nepal"
+"Arabic, North Levantine",apc,0,apc,"Lebanon,Syria,Jordan,Turkey,Israel"
+"Albanian, Tosk",als,0,als,"Greece,North Macedonia,Albania"
+Solomon Islands Pijin ,pis,2,pis,Solomon Islands
+Serbo-Croatian ,hbs,2,sh,"Croatia,North Macedonia,Albania,Slovenia,Hungary,Kosovo,Serbia,Montenegro,Bosnia and Herzegovina,Bulgaria,Romania"
+German,deu,2,de,"Germany,Netherlands,France,Italy,Austria,Liechtenstein,Slovenia,Hungary,Belgium,Switzerland,Slovakia,Czechia,Denmark,Luxembourg,Poland"
+Baluchi,bal,1,bal,"Iran,Afghanistan,Pakistan"
+Swedish ,swe,0,sv,"Norway,Sweden,Finland"
+Bemba,bem,2,bem,"Democratic Republic of th,Zambia,Tanzania,Malawi,Mozambique,Zimbabwe"
+Dinka,din,1,din,"Central African Republic,Sudan,Ethiopia,South Sudan"
+Kannada,kan,2,kn,India
+Mandarin,cmn,4,zh,"Russia,Myanmar,Vietnam,China,India,Kazakhstan,Afghanistan,Hong Kong,Pakistan,North Korea,Taiwan,Bhutan,Mongolia,Laos,Kyrgyzstan,Tajikistan,Nepal"
+Sindhi,snd,2,sd,"India,Pakistan"
+Hiligaynon,hil,2,hil,Philippines
+Guarani,grn,2,gn,"Brazil,Argentina,Bolivia,Paraguay"
+Makassarese,mak,1,mak,Indonesia
+Kazakh,kaz,1,kk,"Russia,China,Kazakhstan,Uzbekistan,Mongolia,Kyrgyzstan,Tajikistan"
+Kyrgyz ,kir,0,ky,"China,Kazakhstan,Uzbekistan,Kyrgyzstan,Tajikistan"
+Lithuanian ,lit,0,lt,"Russia,Latvia,Lithuania,Belarus,Poland"
+Rundi,run,0,rn,"Democratic Republic of th,Rwanda,Tanzania,Burundi"
+Chichewa,nya,2,ny,"Zambia,Tanzania,Malawi,Mozambique"
+Nigerian Pidgin ,pcm,2,pcm,"Chad,Sierra Leone,Guinea,Nigeria,Benin,Gabon,Ghana,Côte d'Ivoire,Cameroon,Equatorial Guinea,Togo,Burkina Faso,Liberia,Niger"
+Latvian ,lav,0,lv,"Russia,Estonia,Latvia,Lithuania,Belarus"
+Kwanyama,kua,1,kj,"Namibia,Angola"
+Finnish ,fin,0,fi,"Norway,Sweden,Russia,Finland"
+Polish ,pol,0,pl,"Germany,Russia,Lithuania,Slovakia,Czechia,Ukraine,Belarus,Poland"
+Serbian ,srp,0,sr,"Croatia,North Macedonia,Hungary,Kosovo,Serbia,Montenegro,Bosnia and Herzegovina,Bulgaria,Romania"
+Ngambay,sba,1,sba,Chad
+Sinhala,sin,2,sl,Sri Lanka
+Slovak ,slk,0,sk,"Austria,Hungary,Slovakia,Czechia,Ukraine,Poland"
+Acehnese,ace,1,ace,Indonesia
+Afar,aar,1,aa,"Djibouti,Ethiopia,Eritrea"
+Xhosa,xho,0,xh,"South Africa,Lesotho"
+Umbundu,umb,1,umb,Angola
+Afrikaans,afr,2,af,"Botswana,Namibia,South Africa"
+Japanese ,jpn,0,ja,Japan
+Sicilian,scn,0,scn,Italy
+Sundanese,sun,0,su,Indonesia
+Tshiluba,lua,2,lua,"Democratic Republic of th,Angola"
+"Arabic, Egyptian",arz,2,arz,"Egypt,Sudan,Libya"
+"Arabic, Libyan",ayl,1,ayl,"Egypt,Algeria,Libya,Tunisia"
+Azerbaijani ,aze,2,az,"Russia,Azerbaijan,Georgia,Armenia,Iran,Turkey"
+Urdu,urd,3,ur,"China,India,Iran,Afghanistan,Pakistan,Nepal"
+"Arabic, South Levantine",ajp,2,ajp,"Egypt,Lebanon,Syria,Jordan,Saudi Arabia,Israel,Palestine"
+"Arabic, Ta’izzi-Adeni",acq,0,acq,"Djibouti,Ethiopia,Yemen,Eritrea"
+"Arabic, Tunisian",aeb,1,aeq,"Algeria,Tunisia"
+Banjarese,bjn,1,bjn,Indonesia
+Beja,bej,0,bej,"Sudan,Eritrea"
+Buginese,bug,1,bug,Indonesia
+Catalan,cat,0,ca,"France,Andorra,Spain"
+Fon,fon,2,fon,"Nigeria,Benin"
+Gujarati,guj,2,gu,"India,Pakistan"
+Hassaniyya,mey,1,mey,"Algeria,Mauritania,Senegal,Morocco,Mali,Western Sahara"
+Belarusian,bel,0,be,"Russia,Latvia,Lithuania,Ukraine,Belarus,Poland"
+Slovene ,slv,0,sl,"Croatia,Italy,Austria,Slovenia,Hungary"
+"Arabic, Hijazi",acw,0,acw,"Egypt,Jordan,Yemen,Saudi Arabia"
+Farsi,pes,3,fa,"China,Azerbaijan,Iran,Uzbekistan,Afghanistan,Pakistan,Turkmenistan,Kyrgyzstan,Tajikistan"
+"Arabic, Mesopotamian",acm,2,acm,"Syria,Iraq,Iran,Jordan,Turkey,Saudi Arabia"
